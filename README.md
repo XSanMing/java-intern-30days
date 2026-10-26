@@ -44,4 +44,4 @@ Java 17 · Spring Boot 3 · MyBatis-Plus · MySQL 8 · Redis · Maven · Git · 
 ## 联系我
 
 - 邮箱：你的邮箱
-- GitHub：https://github.com/你的用户名
+- GitHub：https://github.com/XSanMing
